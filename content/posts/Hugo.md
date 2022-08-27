@@ -32,6 +32,10 @@ hugo new site site_name
 
 This will create a new directory where you can add your posts and you can launch hugo server from there to see how it looks.
 
+![Site Creation](/site_creation.png)
+
+![Directory List](/file_list.png)
+
 ## Add a theme
 
 You can browse various themes [here](https://themes.gohugo.io/)
@@ -47,8 +51,11 @@ git init
 git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke
 ```
 
+![Adding Theme](/adding_a_theme.png)
+
 You also need to add your theme name in `config.toml`
 
+![Adding Theme in config](/adding_theme_in_config.png)
 ## Add a post
 
 First you need to change your directories to the one that was created by hugo when you did `hugo new site`
@@ -61,6 +68,7 @@ hugo new posts/post_name.md
 This will create a new md file in `content>posts` which you can edit and add your post there.
 You can add whatever you want in this file as long as it is in `md` format.
 
+![Creating a post](/creating_a_post.png)
 
 ## Start hugo server
 
@@ -72,7 +80,4 @@ hugo server
 
 ## Connecting to GitHub Pages.
 
-We will see it in a later tutorial.
-
-
-
+Follow [this](/hosting_hugo_on_github/) tutorial to host your site in GitHub pagesd.
