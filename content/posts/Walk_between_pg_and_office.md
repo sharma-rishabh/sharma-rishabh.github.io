@@ -6,7 +6,7 @@ tags:
   - literature
 ---
 
-This is the story of what goes on in my mind while I'm walking from pg to home or home to pg. 
+This is the story of what goes on in my mind while I'm walking from pg to office or office to pg. 
 
 First thing I wanna mention is Ashirwad it's a house near our office which has a circular tower rising on top of it's roof which makes it look like a fort it has a big garden I don't like it much but that circular tower grabs my attentioin every morning I pass by it.
 
