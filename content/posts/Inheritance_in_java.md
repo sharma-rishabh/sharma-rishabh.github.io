@@ -7,9 +7,9 @@ tags:
   - java
 ---
 
-In english inherit means to derive qualities from your ancestors gnetically.
+In english inherit means to derive qualities from your ancestors genetically.
 
-Just like this in java also one class can inherit properties and methods of another class using inheritance. 
+Just like this in java also, one class can inherit properties and methods of another class using inheritance. 
 
 
 ```java
