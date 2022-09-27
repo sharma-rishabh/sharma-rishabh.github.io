@@ -55,3 +55,6 @@ The syntax shown above gets the container element from html DOM, we make that ou
 Important thing to understand is what happens on a `root.render` call, render is not responsible to add p element to html DOM, render add this p to React DOM then react figures out that it's dom and HTML DOM are no in sync so it repaints the element which has changed in this case our root element.
 
 One thing to note is that render assumes you are blowing stuff away so if your try to render more than one react element on the same root, it will unmount the first element and then it will mount the next one. `render` doesn't blow away the already present html elements only the react elements.
+
+
+If you want to learn how to create your own react component [click here](/posts/create_your_react_component)
