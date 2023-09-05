@@ -70,7 +70,7 @@ He stood up clutching the key tight in his right hand and ran, he ran till he re
 
 This was it, he was holding his future in the palm of his hand, he dashed to the door and tried to jam the key inside the keyhole. Imagination of what lies beyond the door completely occupied him. His face was full of tears. He would face the heat of the sun the chill of winter. He would love again and lose again. He would be able to feel the warmth of a hug and the sting of a slap. He would know once again what it feels like to be alive.
 
-He realized the key was still not inside the keyhole he kept pushing but it wouldn't go in. He quickly turned it and tried again. This time it went in. He twisted the key to the right it didn't budge then to the left still nothing. His felt his heart sink to the ground. But he kept trying shuffling the key and twisting with his full force but within a minute he realized his attempts were futile.
+He realized the key was still not inside the keyhole he kept pushing but it wouldn't go in. He quickly turned it and tried again. This time it went in. He twisted the key to the right it didn't budge then to the left still nothing. He felt his heart sink to the ground. But he kept trying shuffling the key and twisting with his full force but within a minute he realized his attempts were futile.
 
 "NO NO GET ME OUT OF HERE. THIS CAN'T BE. THIS KEY IS SUPPOSED TO OPEN THIS DOOR. YOU CAN'T DO THIS TO ME"
 
