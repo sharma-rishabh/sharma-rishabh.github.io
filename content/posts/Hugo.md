@@ -80,4 +80,4 @@ hugo server
 
 ## Connecting to GitHub Pages.
 
-Follow [this](/hosting_hugo_on_github/) tutorial to host your site in GitHub pagesd.
+Follow [this](/hosting_hugo_on_github/) tutorial to host your site in GitHub pages.
