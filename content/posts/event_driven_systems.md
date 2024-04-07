@@ -4,6 +4,7 @@ date: 2024-04-07T12:14:09+05:30
 draft: false
 tags:
   - tech
+  - event-driven-systems
 ---
 
 A system which does something on the basis of a consumed event is considered an event driven system.
