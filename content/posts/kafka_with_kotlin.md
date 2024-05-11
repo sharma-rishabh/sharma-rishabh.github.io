@@ -63,8 +63,7 @@ val topicName = "PRICES"
 
 Let's try to create a topic to publish and consume our events. For this we'll need a kafka admin client, and the rest of it is pretty straight-forward.
 
-
-``` kotlin
+```kotlin
 val adminConfig = mapOf(AdminClientConfig.BOOTSTRAP_SERVERS_CONFIG to bootstrapServer)
 
 
@@ -79,8 +78,7 @@ adminClient.close()
 
 For publishing we need a few things like publisher props, kafka producer, and producerRecord. We don't need to worry about these as they come bundled with the kafka kotlin library.
 
-
-``` kotlin
+```kotlin
 val producerProps = Properties().apply {
 	put(
 		ProducerConfig.BOOTSTRAP_SERVERS_CONFIG,
@@ -116,8 +114,7 @@ producer.close()
 
 For consuming we need to configure consumer props, create a kafka consumer and subscribe to the topic. Then we can poll in a loop to consume any incoming events on the topics.
 
-
-``` kotlin
+```kotlin
 val consumerProps = Properties().apply {
 	put(
 		ConsumerConfig.BOOTSTRAP_SERVERS_CONFIG,
@@ -151,5 +148,6 @@ while (true) {
 	}
 ```
 
-
 Note: If you're planning to use rich objects to represent your events rather than strings, you'll have to create a serilaizer and deserilazer class your self.
+
+If you have any doubts you can go through the code in this [repository](https://github.com/sharma-rishabh/kafka-consumer-publisher-/tree/d38e7a76a560dc4b7df467b3b2d08512c3d44898)
